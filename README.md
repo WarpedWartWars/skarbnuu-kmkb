@@ -5,11 +5,11 @@ Version 1.0
 
 Description
 -----------
-# TODO
+TODO
 
 Links
 -----
-# TODO: add homepage
+TODO: add homepage
 
 Copyright
 ---------

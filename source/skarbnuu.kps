@@ -69,7 +69,7 @@
       <ID>skarbnuu</ID>
       <Version>1.0</Version>
       <Languages>
-        <Language ID="art-Cyrl-x-Skarbnuu">Skarbnuu</Language>
+        <Language ID="art">Artificial languages</Language>
       </Languages>
     </Keyboard>
   </Keyboards>

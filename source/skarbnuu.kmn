@@ -5,7 +5,7 @@ c https://warpedwartwars.github.io
 store(&VERSION) '10.0'
 store(&NAME) 'Skarbnuu'
 store(&COPYRIGHT) '© 2025 Lúkos Ddraigcrafangau' U+0027 'r'
-store(&KEYBOARDVERSION) '1.1'
+store(&KEYBOARDVERSION) '1.2'
 store(&BITMAP) 'skarbnuu.ico'
 store(&VISUALKEYBOARD) 'skarbnuu.kvks'
 store(&LAYOUTFILE) 'skarbnuu.keyman-touch-layout'

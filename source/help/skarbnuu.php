@@ -59,8 +59,8 @@ END;
 		<td colspan="4" class="t">^</td>
 		<td colspan="4" class="t">&</td>
 		<td colspan="4" class="t">*</td>
-		<td colspan="4" class="t">(</td>
-		<td colspan="4" class="t">)</td>
+		<td colspan="4" class="t">{</td>
+		<td colspan="4" class="t">}</td>
 		<td colspan="4" class="t">÷</td>
 		<td colspan="4" class="t">×</td>
 		<td colspan="8" class="t m"></td>
@@ -86,24 +86,24 @@ END;
 	</tr>
 	<tr>
 		<td colspan="6" class="t m"></td>
-		<td colspan="4" class="t">™</td>
-		<td colspan="4" class="t">ъ</td>
+		<td colspan="4" class="t">»</td>
+		<td colspan="4" class="t">«</td>
 		<td colspan="4" class="t">е</td>
-		<td colspan="4" class="t">®</td>
+		<td colspan="4" class="t">ʀ</td>
+		<td colspan="4" class="t">t</td>
 		<td colspan="4" class="t">–</td>
 		<td colspan="4" class="t">—</td>
-		<td colspan="4" class="t">_</td>
 		<td colspan="4" class="t">и</td>
-		<td colspan="4" class="t">"</td>
+		<td colspan="4" class="t">_</td>
 		<td colspan="4" class="t">=</td>
-		<td colspan="4" class="t">{</td>
-		<td colspan="4" class="t">}</td>
+		<td colspan="4" class="t">[</td>
+		<td colspan="4" class="t">]</td>
 		<td colspan="6" class="t">\</td>
 	</tr>
 	<tr>
 		<td colspan="6" class="b m">tab</td>
-		<td colspan="4" class="b">t</td>
-		<td colspan="4" class="b">ң</td>
+		<td colspan="4" class="b">›</td>
+		<td colspan="4" class="b">‹</td>
 		<td colspan="4" class="b">є</td>
 		<td colspan="4" class="b">р</td>
 		<td colspan="4" class="b">т</td>
@@ -112,23 +112,23 @@ END;
 		<td colspan="4" class="b">і</td>
 		<td colspan="4" class="b">о</td>
 		<td colspan="4" class="b">п</td>
-		<td colspan="4" class="b">[</td>
-		<td colspan="4" class="b">]</td>
+		<td colspan="4" class="b">(</td>
+		<td colspan="4" class="b">)</td>
 		<td colspan="6" class="b">/</td>
 	</tr>
 	<tr>
 		<td colspan="7" class="t m"></td>
 		<td colspan="4" class="t">э</td>
-		<td colspan="4" class="t">©</td>
-		<td colspan="4" class="t">¡</td>
+		<td colspan="4" class="t">s</td>
+		<td colspan="4" class="t">d</td>
 		<td colspan="4" class="t">¿</td>
 		<td colspan="4" class="t">‘</td>
 		<td colspan="4" class="t">’</td>
-		<td colspan="4" class="t">“</td>
-		<td colspan="4" class="t">”</td>
-		<td colspan="4" class="t">⟨</td>
+		<td colspan="4" class="t">j</td>
 		<td colspan="4" class="t">⟩</td>
+		<td colspan="4" class="t">l</td>
 		<td colspan="4" class="t">|</td>
+		<td colspan="4" class="t">"</td>
 		<td colspan="9" class="t m"></td>
 	</tr>
 	<tr>
@@ -151,13 +151,13 @@ END;
 	</tr>
 	<tr>
 		<td colspan="9" class="t m"></td>
-		<td colspan="4" class="t">,</td>
+		<td colspan="4" class="t">z</td>
 		<td colspan="4" class="t">;</td>
 		<td colspan="4" class="t">.</td>
-		<td colspan="4" class="t">‹</td>
-		<td colspan="4" class="t">›</td>
-		<td colspan="4" class="t">«</td>
-		<td colspan="4" class="t">»</td>
+		<td colspan="4" class="t">“</td>
+		<td colspan="4" class="t">”</td>
+		<td colspan="4" class="t">n</td>
+		<td colspan="4" class="t">⟨</td>
 		<td colspan="4" class="t">&lt;</td>
 		<td colspan="4" class="t">&gt;</td>
 		<td colspan="4" class="t">!</td>
@@ -166,13 +166,13 @@ END;
 	<tr>
 		<td colspan="9" class="b m">shift</td>
 		<td colspan="4" class="b">з</td>
-		<td colspan="4" class="b">d</td>
-		<td colspan="4" class="b">l</td>
+		<td colspan="4" class="b">ъ</td>
+		<td colspan="4" class="b">ь</td>
 		<td colspan="4" class="b">в</td>
 		<td colspan="4" class="b">б</td>
 		<td colspan="4" class="b">н</td>
 		<td colspan="4" class="b">м</td>
-		<td colspan="4" class="b">ь</td>
+		<td colspan="4" class="b"> </td>
 		<td colspan="4" class="b">⁝</td>
 		<td colspan="4" class="b">?</td>
 		<td colspan="11" class="b m">shift</td>

@@ -1,6 +1,11 @@
 Skarbnuu Keyboard Change History
 ====================
 
+2.0 (2025-08-17)
+----------------
+* updated to the orthography change in Skarbnuu 0.4.2
+* made it not error on compiling for web
+
 1.2 (2025-07-25)
 ----------------
 * set lang tag to `art` instead of `art-Cyrl-x-skarbnuu`

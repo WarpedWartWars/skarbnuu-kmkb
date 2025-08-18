@@ -1,7 +1,7 @@
 Skarbnuu keyboard layout
 ==============
 
-Version 1.2
+Version 2.0
 
 Description
 -----------
@@ -27,4 +27,4 @@ Supported Platforms
  - * Tablet devices
  - - * iPad
  - - * Android tablet
- * Web ✗
+ * Web ?

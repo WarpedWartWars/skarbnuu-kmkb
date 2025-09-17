@@ -8,7 +8,7 @@
     <ExecuteProgram></ExecuteProgram>
     <ReadMeFile>readme.htm</ReadMeFile>
     <LicenseFile>..\LICENSE.md</LicenseFile>
-    <WelcomeFile>readme.htm</WelcomeFile>
+    <WelcomeFile>welcome.htm</WelcomeFile>
     <MSIFileName></MSIFileName>
     <MSIOptions></MSIOptions>
     <FollowKeyboardVersion/>
@@ -67,7 +67,7 @@
     <Keyboard>
       <Name>Skarbnuu</Name>
       <ID>skarbnuu</ID>
-      <Version>1.0</Version>
+      <Version>3.0</Version>
       <Languages>
         <Language ID="art">Artificial languages</Language>
       </Languages>

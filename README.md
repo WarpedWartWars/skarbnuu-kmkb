@@ -1,7 +1,7 @@
 Skarbnuu keyboard layout
 ==============
 
-Version 2.0
+Version 3.0
 
 Description
 -----------
@@ -19,7 +19,7 @@ Supported Platforms
 -------------------
  * Desktop devices ✓
  - * Windows
- - * Mac OS X
+ - * Mac OSX
  - * Linux
  * Mobile devices ?
  - * iPhone

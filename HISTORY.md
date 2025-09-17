@@ -1,6 +1,10 @@
 Skarbnuu Keyboard Change History
 ====================
 
+3.0 (2025-09-17)
+----------------
+* updated to the orthography change in Skarbnuu 0.5.0
+
 2.0 (2025-08-17)
 ----------------
 * updated to the orthography change in Skarbnuu 0.4.2

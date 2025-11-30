@@ -9,44 +9,86 @@
             "id": 1,
             "key": [
               {
-                "id": "K_Q",
-                "text": "ꚋ"
-              },
-              {
-                "id": "K_W",
-                "text": "ԡ"
-              },
-              {
                 "id": "K_E",
-                "text": "є"
+                "text": "е",
+                "sk": [
+                  {
+                    "text": "є",
+                    "id": "T_new_504"
+                  }
+                ]
               },
               {
                 "id": "K_R",
-                "text": "р"
+                "text": "р",
+                "sk": [
+                  {
+                    "text": "в",
+                    "id": "T_new_505"
+                  }
+                ]
               },
               {
                 "id": "K_T",
-                "text": "т"
-              },
-              {
-                "id": "K_Y",
-                "text": "е"
-              },
-              {
-                "id": "K_U",
-                "text": "у"
+                "text": "т",
+                "sk": [
+                  {
+                    "text": "ꚋ",
+                    "id": "T_new_506"
+                  },
+                  {
+                    "text": "д",
+                    "id": "T_new_567"
+                  },
+                  {
+                    "text": "ꙣ",
+                    "id": "T_new_568"
+                  }
+                ]
               },
               {
                 "id": "K_I",
-                "text": "и"
+                "text": "и",
+                "sk": [
+                  {
+                    "text": "і",
+                    "id": "T_new_565"
+                  }
+                ]
               },
               {
                 "id": "K_O",
-                "text": "о"
+                "text": "о",
+                "sk": [
+                  {
+                    "text": "у",
+                    "id": "T_new_508"
+                  },
+                  {
+                    "text": "е",
+                    "id": "T_new_524"
+                  }
+                ]
               },
               {
                 "id": "K_P",
-                "text": "п"
+                "text": "п",
+                "sk": [
+                  {
+                    "text": "б",
+                    "id": "T_new_564"
+                  }
+                ]
+              },
+              {
+                "id": "K_K",
+                "text": "к",
+                "sk": [
+                  {
+                    "text": "г",
+                    "id": "T_new_563"
+                  }
+                ]
               }
             ]
           },
@@ -56,23 +98,36 @@
               {
                 "id": "K_A",
                 "text": "а",
-                "pad": 72
+                "sk": [
+                  {
+                    "text": "я",
+                    "id": "T_new_509"
+                  }
+                ]
               },
               {
                 "id": "K_S",
-                "text": "с"
+                "text": "с",
+                "sk": [
+                  {
+                    "text": "з",
+                    "id": "T_new_522"
+                  }
+                ]
               },
               {
                 "id": "K_D",
-                "text": "д"
+                "text": "д",
+                "sk": [
+                  {
+                    "text": "ꙣ",
+                    "id": "T_new_510"
+                  }
+                ]
               },
               {
                 "id": "K_F",
                 "text": "ф"
-              },
-              {
-                "id": "K_G",
-                "text": "я"
               },
               {
                 "id": "K_H",
@@ -80,15 +135,31 @@
               },
               {
                 "id": "K_J",
-                "text": "і"
-              },
-              {
-                "id": "K_K",
-                "text": "к"
+                "text": "і",
+                "sk": [
+                  {
+                    "text": "ь",
+                    "id": "T_new_516"
+                  },
+                  {
+                    "text": "ї",
+                    "id": "T_new_511"
+                  },
+                  {
+                    "text": "ъ",
+                    "id": "T_new_517"
+                  }
+                ]
               },
               {
                 "id": "K_L",
-                "text": "л"
+                "text": "л",
+                "sk": [
+                  {
+                    "text": "ԡ",
+                    "id": "T_new_512"
+                  }
+                ]
               }
             ]
           },
@@ -96,44 +167,60 @@
             "id": 3,
             "key": [
               {
-                "id": "K_LBRKT",
-                "text": "›"
-              },
-              {
                 "id": "K_Z",
-                "text": "ꙍ"
-              },
-              {
-                "id": "K_X",
-                "text": "ꙣ"
-              },
-              {
-                "id": "K_C",
-                "text": "в"
-              },
-              {
-                "id": "K_V",
-                "text": "ԣ"
+                "text": "з",
+                "sk": [
+                  {
+                    "text": "ꙍ",
+                    "id": "T_new_513"
+                  },
+                  {
+                    "text": "ш",
+                    "id": "T_new_519"
+                  },
+                  {
+                    "text": "ж",
+                    "id": "T_new_520"
+                  }
+                ]
               },
               {
                 "id": "K_B",
-                "text": "ч"
+                "text": "ч",
+                "sk": [
+                  {
+                    "text": "ң",
+                    "id": "T_new_521"
+                  }
+                ]
               },
               {
                 "id": "K_N",
-                "text": "н"
+                "text": "н",
+                "sk": [
+                  {
+                    "text": "ԣ",
+                    "id": "T_new_514"
+                  }
+                ]
               },
               {
                 "id": "K_M",
                 "text": "м"
               },
               {
-                "id": "K_COMMA",
-                "text": "ь"
+                "id": "K_LBRKT",
+                "text": "›"
               },
               {
                 "id": "K_RBRKT",
                 "text": "‹"
+              },
+              {
+                "id": "K_BKSP",
+                "text": "*BkSp*",
+                "width": 100,
+                "sp": 1
               }
             ]
           },
@@ -155,18 +242,11 @@
               },
               {
                 "id": "K_SPACE",
-                "width": 560
-              },
-              {
-                "id": "K_BKSP",
-                "text": "*BkSp*",
-                "width": 100,
-                "sp": 1
+                "width": 445
               },
               {
                 "id": "K_ENTER",
                 "text": "*Enter*",
-                "width": 215,
                 "sp": 1
               }
             ]

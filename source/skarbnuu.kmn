@@ -5,7 +5,7 @@ c https://warpedwartwars.github.io
 store(&VERSION) '10.0'
 store(&NAME) 'Skarbnuu'
 store(&COPYRIGHT) '© 2025 Lúkos Ddraigcrafangau' U+0027 'r'
-store(&KEYBOARDVERSION) '3.0'
+store(&KEYBOARDVERSION) '4.0'
 store(&BITMAP) 'skarbnuu.ico'
 store(&VISUALKEYBOARD) 'skarbnuu.kvks'
 store(&LAYOUTFILE) 'skarbnuu.keyman-touch-layout'
@@ -28,9 +28,9 @@ store(orig) "`" "1" "2" "3" "4" "5" "6" "7" "8" "9" "0" "-" "=" \
                      "Z" "X" "C" "V" "B" "N" "M" "<" ">" "?"
 
 store(outp) "`" "1" "2" "3" "4" "5" "6" "7" "8" "9" "0" "-" "+" \
-                  "ꚋ" "ԡ" "є" "р" "т" "е" "у" "и" "о" "п" "›" "‹" "/" \
-                   "а" "с" "д" "ф" "я" "х" "і" "к" "л" ":" "'" \
-                     "ꙍ" "ꙣ" "в" "ԣ" "ч" "н" "м" "ь" "⁝" "?" "·" \
+                  "т" "л" "е" "р" "т" "о" "о" "и" "о" "п" "›" "‹" "/" \
+                   "а" "с" "д" "ф" "а" "х" "і" "к" "л" ":" "'" \
+                     "з" "х" "р" "н" "ч" "н" "м" ":" "⁝" "?" "·" \
 \
             "´" "~" "@" "#" "$" "%" "^" "&" "*" "{" "}" "÷" "×" \
                   "€" "£" "(" ")" "[" "]" "–" "—" "_" "=" "»" "«" "\" \

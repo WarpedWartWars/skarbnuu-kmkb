@@ -7,6 +7,7 @@
   </header>
   <encoding name="unicode" fontname="Arial" fontsize="-12">
     <layer shift="S">
+      <key vkey="K_SPACE">·</key>
       <key vkey="K_1">~</key>
       <key vkey="K_QUOTE">"</key>
       <key vkey="K_3">#</key>
@@ -57,7 +58,7 @@
     </layer>
     <layer shift="">
       <key vkey="K_QUOTE">'</key>
-      <key vkey="K_COMMA">ь</key>
+      <key vkey="K_COMMA">:</key>
       <key vkey="K_HYPHEN">-</key>
       <key vkey="K_PERIOD">⁝</key>
       <key vkey="K_SLASH">?</key>
@@ -79,11 +80,11 @@
       <key vkey="K_BKQUOTE">`</key>
       <key vkey="K_A">а</key>
       <key vkey="K_B">ч</key>
-      <key vkey="K_C">в</key>
+      <key vkey="K_C">р</key>
       <key vkey="K_D">д</key>
-      <key vkey="K_E">є</key>
+      <key vkey="K_E">е</key>
       <key vkey="K_F">ф</key>
-      <key vkey="K_G">я</key>
+      <key vkey="K_G">а</key>
       <key vkey="K_H">х</key>
       <key vkey="K_I">и</key>
       <key vkey="K_J">і</key>
@@ -93,16 +94,16 @@
       <key vkey="K_N">н</key>
       <key vkey="K_O">о</key>
       <key vkey="K_P">п</key>
-      <key vkey="K_Q">ꚋ</key>
+      <key vkey="K_Q">т</key>
       <key vkey="K_R">р</key>
       <key vkey="K_S">с</key>
       <key vkey="K_T">т</key>
-      <key vkey="K_U">у</key>
-      <key vkey="K_V">ԣ</key>
-      <key vkey="K_W">ԡ</key>
-      <key vkey="K_X">ꙣ</key>
-      <key vkey="K_Y">е</key>
-      <key vkey="K_Z">ꙍ</key>
+      <key vkey="K_U">о</key>
+      <key vkey="K_V">н</key>
+      <key vkey="K_W">л</key>
+      <key vkey="K_X">х</key>
+      <key vkey="K_Y">о</key>
+      <key vkey="K_Z">з</key>
       <key vkey="K_SPACE">·</key>
     </layer>
   </encoding>

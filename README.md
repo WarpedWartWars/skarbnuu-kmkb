@@ -1,7 +1,7 @@
 Skarbnuu keyboard layout
 ==============
 
-Version 3.0
+Version 4.0
 
 Description
 -----------

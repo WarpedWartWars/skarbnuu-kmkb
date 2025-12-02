@@ -102,12 +102,12 @@ END;
 	</tr>
 	<tr>
 		<td colspan="6" class="b m">tab</td>
-		<td colspan="4" class="b">т</td>
-		<td colspan="4" class="b">л</td>
+		<td colspan="4" class="b">к</td>
+		<td colspan="4" class="b">ь</td>
 		<td colspan="4" class="b">е</td>
-		<td colspan="4" class="b">р</td>
+		<td colspan="4" class="b">ь</td>
 		<td colspan="4" class="b">т</td>
-		<td colspan="4" class="b">о</td>
+		<td colspan="4" class="b">ь</td>
 		<td colspan="4" class="b">о</td>
 		<td colspan="4" class="b">и</td>
 		<td colspan="4" class="b">о</td>
@@ -135,11 +135,11 @@ END;
 		<td colspan="7" class="b m">caps lock</td>
 		<td colspan="4" class="b">а</td>
 		<td colspan="4" class="b">с</td>
-		<td colspan="4" class="b">д</td>
+		<td colspan="4" class="b">т</td>
 		<td colspan="4" class="b">ф</td>
-		<td colspan="4" class="b">а</td>
+		<td colspan="4" class="b">к</td>
 		<td colspan="4" class="b">х</td>
-		<td colspan="4" class="b">і</td>
+		<td colspan="4" class="b">ь</td>
 		<td colspan="4" class="b">к</td>
 		<td colspan="4" class="b">л</td>
 		<td colspan="4" class="b">:</td>
@@ -167,8 +167,8 @@ END;
 		<td colspan="9" class="b m">shift</td>
 		<td colspan="4" class="b">з</td>
 		<td colspan="4" class="b">х</td>
-		<td colspan="4" class="b">р</td>
-		<td colspan="4" class="b">н</td>
+		<td colspan="4" class="b">с</td>
+		<td colspan="4" class="b">ф</td>
 		<td colspan="4" class="b">ч</td>
 		<td colspan="4" class="b">н</td>
 		<td colspan="4" class="b">м</td>

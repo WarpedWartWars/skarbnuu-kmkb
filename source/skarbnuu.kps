@@ -19,7 +19,7 @@
   </StartMenu>
   <Info>
     <Name URL="">Skarbnuu</Name>
-    <Copyright URL="">© 2025 Lúkos Ddraigcrafangau'r</Copyright>
+    <Copyright URL="">© 2025-2026 Lúkos Ddraigcrafangau'r</Copyright>
     <Author URL="mailto:warpedwartwars@gmail.com">Lúkos Ddraigcrafangau'r</Author>
     <Version URL=""></Version>
     <WebSite URL="https://warpedwartwars.github.io">https://warpedwartwars.github.io</WebSite>
@@ -67,7 +67,7 @@
     <Keyboard>
       <Name>Skarbnuu</Name>
       <ID>skarbnuu</ID>
-      <Version>3.0</Version>
+      <Version>5.0</Version>
       <Languages>
         <Language ID="art">Artificial languages</Language>
       </Languages>

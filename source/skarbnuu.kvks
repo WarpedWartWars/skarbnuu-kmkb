@@ -87,7 +87,7 @@
       <key vkey="K_G">к</key>
       <key vkey="K_H">х</key>
       <key vkey="K_I">и</key>
-      <key vkey="K_J">ь</key>
+      <key vkey="K_J">и</key>
       <key vkey="K_K">к</key>
       <key vkey="K_L">л</key>
       <key vkey="K_M">м</key>
@@ -95,15 +95,15 @@
       <key vkey="K_O">о</key>
       <key vkey="K_P">п</key>
       <key vkey="K_Q">к</key>
-      <key vkey="K_R">ь</key>
+      <key vkey="K_R">и</key>
       <key vkey="K_S">с</key>
       <key vkey="K_T">т</key>
       <key vkey="K_U">о</key>
       <key vkey="K_V">ф</key>
-      <key vkey="K_W">ь</key>
+      <key vkey="K_W">и</key>
       <key vkey="K_X">х</key>
-      <key vkey="K_Y">ь</key>
-      <key vkey="K_Z">з</key>
+      <key vkey="K_Y">и</key>
+      <key vkey="K_Z">ѕ</key>
       <key vkey="K_SPACE">·</key>
     </layer>
   </encoding>

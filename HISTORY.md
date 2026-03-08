@@ -1,6 +1,10 @@
 Skarbnuu Keyboard Change History
 ====================
 
+5.1 (2026-03-08)
+----------------
+* updated to Skarbnuu 0.7.3
+
 5.0 (2025-12-02)
 ----------------
 * updated to Skarbnuu 0.6.2
